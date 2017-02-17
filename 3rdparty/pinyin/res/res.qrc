@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/pinyin">
+        <file alias="dictFile">text_file/unicode_to_hanyu_pinyin.txt</file>
+    </qresource>
+</RCC>
